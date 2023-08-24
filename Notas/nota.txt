@@ -1,0 +1,4 @@
+El proyecto total es de un video youtube
+
+Aqui tenemos una fraccion del codigo Enfocado el Raycasting Puro
+Antes de llegar a la aplicacion de Texturas
